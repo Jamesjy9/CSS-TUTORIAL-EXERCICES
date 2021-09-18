@@ -15,8 +15,8 @@
 
 .spades,
 .spades:after {
-	content: "♤";
-	color: black;
+	content: "♡";
+	color: red;
 }
 
 .heart,

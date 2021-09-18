@@ -1,4 +1,13 @@
 /** Insert your code here **/
+body ul li {
+	color: red;
+}
+ol li:nth-child(2) {
+	background: green;
+}
+table tr:nth-child(even) {
+	background: yellow;
+}
 
 /*********** READ ONLY BLOCK ******
 You CAN NOT UPDATE anything from here on,
